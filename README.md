@@ -1,13 +1,15 @@
-# 311tht TanTranHuyen | Fullstack Developer
+Hi there! I'm Tran Tran Huyen (311tht)
 
-Software developer building AI-assisted products and modern web applications.
+<p align="center">
+<i><sub>"Code is poetry written in logic, photography captures the poetry of life"</sub></i>
+</p>
+
+Developer focused on enterprise web applications, with a strong interest in AI-powered product workflows and developer tooling.
 
 ## Current Project
 **LoryFlow**  
-An AI-powered language learning platform focused on Dictation, Shadowing, and a multi-model workflow for content and runtime tooling.
+An AI-powered platform for Dictation and Shadowing, built with a tiered workflow for planning, execution, and context-aware development.
 
 ## Tech Stack
-- **Languages:** C#, TypeScript, JavaScript
-- **Frontend:** Next.js, Tailwind CSS, Redux Toolkit
-- **Backend:** ASP.NET Core, PostgreSQL
-- **AI Tooling:** Codex, Gemini, Claude
+- **Core:** .NET, Next.js, PostgreSQL
+- **AI Tooling:** Codex, Gemini, Claude, RTK
