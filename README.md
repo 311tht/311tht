@@ -1,8 +1,7 @@
 # Hi there! I'm Tran Tran Huyen (311tht)
 
-<p align="center">
-  <i><sub>"Code is poetry written in logic, photography captures the poetry of life"</sub></i>
-</p>
+> *"Code is poetry written in logic, photography captures the poetry of life"*
+
 
 Developer focused on building web applications and exploring practical AI workflows.
 
