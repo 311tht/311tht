@@ -1,15 +1,21 @@
-Hi there! I'm Tran Tran Huyen (311tht)
+# Hi there! I'm Tran Tran Huyen (311tht)
 
 <p align="center">
-<i><sub>"Code is poetry written in logic, photography captures the poetry of life"</sub></i>
+  <i><sub>"Code is poetry written in logic, photography captures the poetry of life"</sub></i>
 </p>
 
-Developer focused on enterprise web applications, with a strong interest in AI-powered product workflows and developer tooling.
+Developer focused on building web applications and exploring practical AI workflows.
 
-## Current Project
+## What I'm working on
 **LoryFlow**  
-An AI-powered platform for Dictation and Shadowing, built with a tiered workflow for planning, execution, and context-aware development.
+An AI-powered platform for Dictation and Shadowing.
 
 ## Tech Stack
-- **Core:** .NET, Next.js, PostgreSQL
+- **Backend:** ASP.NET Core, PostgreSQL
+- **Frontend:** JavaScript-based web UI, currently working in Next.js
 - **AI Tooling:** Codex, Gemini, Claude, RTK
+
+## Interests
+- AI-assisted development workflows
+- Web application architecture
+- Developer tooling
